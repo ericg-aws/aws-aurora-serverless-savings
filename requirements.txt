@@ -1,0 +1,5 @@
+boto3>=1.26.54,<2
+botocore>=1.29.54,<2
+pandas>=1.5.2,<1.6
+scikit_learn>=1.2.0,<2
+xgboost>=1.6.2,<1.7
